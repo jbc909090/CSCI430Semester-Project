@@ -1,5 +1,5 @@
 This is A way for me to store an old group/solo project (first half was in group the rest was solo)
-As scuh the porject is older than it appears, this is from 4/4/2021
+As such the project is older than it appears, this is from 4/4/2021
 
 download all the files and make sure you have have some accesible x11 server
 then in the folder with all the files run
